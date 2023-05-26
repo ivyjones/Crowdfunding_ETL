@@ -42,6 +42,10 @@ The "backers_count" column
 
 The "country" column
 
+SOURCES:
+Crowdfunding.xlsx
+Contacts.xlsx
+provided by bootcamp
 The "currency" column
 
 The "launched_at" column, renamed to "launch_date" and with the UTC times converted to the datetime format
